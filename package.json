@@ -31,7 +31,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "lxl-tools",
+  "name": "lxl-tool",
   "author": "liuxilei",
   "module": "dist/lxl-tools.esm.js",
   "size-limit": [
